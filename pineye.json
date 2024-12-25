@@ -1,6 +1,6 @@
 {
   "ref": "",
-  "skipErrorTasks": [],
+  "IGNORE_TASKS": [115, 1, 116, 118, 117, 122, 124],
   "ver": "v1.0.5",
   "noti": "Có bản mới update tại https://t.me/W0lfairdrop",
   "academy": {
